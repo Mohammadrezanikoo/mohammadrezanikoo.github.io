@@ -1,65 +1,21 @@
-# My Journey
+# Our Journey
 
-I am currently a **PhD student at the <a href="https://www.ufl.edu/" target="_blank">University of Florida</a>**, working in the **Climate Resilience Lab** under <a href="https://nassernajibi.github.io/lab/" target="_blank">Dr. Nasser Najibi’s research group</a> in the Department of Agricultural & Biological Engineering.  
+The **Nikoo Research Group** is led by **Dr. Mohammad Reza Nikoo**, Associate Professor of Civil and Architectural Engineering at **Sultan Qaboos University (SQU)**, Oman.
 
-<br>
+We advance cutting-edge research in **environmental modeling, machine learning for water and environmental systems, sustainable water resources management, renewable energy assessment, remote sensing, and risk analysis under deep uncertainty**.
 
-My research focuses on **Hydroclimate Extremes & Risk**, specifically:  
-
-<br>
-
-- Characterizing and modeling **hydroclimatic extremes** (floods, droughts, extreme precipitation, heatwaves)  
-- Developing **stochastic decision frameworks** to improve infrastructure and ecosystem resilience under deep uncertainty  
-- Integrating **process-based and ensemble approaches** to assess climate vulnerability across water, energy, transportation, agriculture, and public health sectors  
-
-<br>
+Our work integrates advanced computational techniques, satellite data, stochastic modeling, and multi-criteria decision-making to address real-world challenges in climate resilience, water quality, flood and drought risk, and sustainable development across the Middle East and globally.
 
 ---
 
-<br>
+## The Nikoo Research Group Story
 
-## Previous Research & Education
+### Sultan Qaboos University (Oman) – 2021–Present
+Since joining SQU in 2021 as Associate Professor, I have built and lead the **Nikoo Research Group**.  
+We currently supervise **12 PhD students** and have successfully graduated **45 MSc students**.  
+Our research has produced **190+ peer-reviewed publications**, accumulating **over 5,961 citations** (H-index: 42).  
+In 2024, I received the **Oman National Research Award** and was ranked among the **world’s top 2% scientists** (Stanford University ranking) as well as the **top-ranked Civil Engineer in Oman**.
 
-<br>
-
-### University of South Carolina (USA)
-
-I began my PhD at the <a href="https://www.sc.edu/" target="_blank">University of South Carolina</a> in Civil Engineering within the iWERS lab, where I conducted research under **Dr. Erfan Goharian**.  
-
-<br>
-
-Concurrently, I pursued graduate-level coursework in Computer Science before transferring to UF after my advisor resigned.  
-
-<br>
-
-### University of Groningen (Netherlands)
-
-I spent **4 months** at the <a href="https://www.rug.nl/" target="_blank">University of Groningen</a> in the SCIO cluster (Sustainable Cooperation, Institutions & Organizations).  
-
-<br>
-
-There, I developed an **agent-based model** simulating human behavior during cascading disasters to support resilience planning.  
-
-<br>
-
-### Politecnico di Milano (Italy)
-
-I earned my **MSc in Civil Engineering for Risk Mitigation (CERM)** at <a href="https://www.polimi.it/en/" target="_blank">Politecnico di Milano</a>.  
-
-<br>
-
-My thesis—*“Application of Deep Learning and Remote Sensing in Disaster Management”*—leveraged satellite data and AI to assess hazards.  
-
-<br>
-
-### International University of Imam Khomeini (Iran)
-
-I completed my **BSc in Civil Engineering** at <a href="https://www.ikiu.ac.ir/" target="_blank">IKIU</a>.  
-
-<br>
-
-My undergraduate focus on river hydrology and hydraulics sparked my enduring interest in flood risk and disaster resilience.  
-
-<br>
-
----
+### University of Technology Sydney (Australia)
+Honorary Visiting Fellow (2022–Present)  
+Collaborative research on climate-resilient water systems and machine learning applications in environmental engineering.
