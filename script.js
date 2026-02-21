@@ -241,7 +241,7 @@ function handleFormSubmit(e) {
     
     // Prepare template parameters
     const templateParams = {
-        to_name: 'Matt Hatami',
+        to_name: 'Nikoo Research Group',
         from_name: name,
         from_email: email,
         message: message,
@@ -268,7 +268,7 @@ function handleFormSubmit(e) {
                 text: error.text,
                 user: error.user
             });
-            alert('Sorry, there was an error sending your message. Error: ' + error.text + '. Please try again or contact me directly at HatamiMatt@gmail.com');
+            alert('Sorry, there was an error sending your message. Error: ' + error.text + '. Please try again or contact me directly at m.reza@squ.edu.om');
         })
         .finally(function() {
             // Reset button state
